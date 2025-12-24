@@ -176,7 +176,7 @@ var team = player.GetVar("team");
 var time = player.GetVar("Minutes") + ":" + player.GetVar("Seconds");
 
 // Google Apps Script URL
-var url = "https://script.google.com/macros/s/AKfycbwQPq8ch7x_FVIdMZrjN86h8J9PWIx2CBdVb9EF9pZT3JG2ID-RKW36xvazY8TIKyEM3w/exec";
+var url = "https://script.google.com/macros/s/AKfycbwAZEhz7ak3jhRXGq_Cr_ZMmCH_XLsel_rfUQ3AXCvzv3v1JBSz6uxb56yv8GbpxsizNA/exec";
 
 // Create hidden iframe
 var iframe = document.createElement("iframe");
